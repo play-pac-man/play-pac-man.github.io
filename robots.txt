@@ -11,4 +11,4 @@ Disallow: /*.pdf$
 Disallow: /*.zip$
 Disallow: /*.exe$
 
-Sitemap: https://basket-bros.io/sitemap.xml
+Sitemap: https://play-pac-man.github.io/sitemap.xml
